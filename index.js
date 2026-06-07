@@ -3,8 +3,8 @@ const mineflayer = require('mineflayer')
 function createBot() {
 
 const bot = mineflayer.createBot({
-  host: 'distractrp.playserver.pro',
-  port: 25565,
+  host: '162.55.241.186',
+  port: 12733,
   username: 'DistractBot',
   version: '1.20.1'
 })
